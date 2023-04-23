@@ -1,0 +1,16 @@
+.Header{
+   background-color:lightpink;
+   font-family:Verdana,DejaVu sans,sans-serif;
+}
+#iam{
+    color:blue;
+    font-size: 36px;
+}
+.Header.cooler{
+    font-size:24px;
+}
+#iaman{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
